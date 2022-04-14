@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>大猫的友人帐</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="欢迎来到我的世界!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          想吃点啥就吃点啥
         </p>
       </main>
 
